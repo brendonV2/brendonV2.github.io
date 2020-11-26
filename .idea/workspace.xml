@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f28b2c-864f-4fb3-ba69-11cd9ffbcde3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/brendonV2.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/maps/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about/signature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgrounds/bg-dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgrounds/education-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgrounds/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgrounds/team-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blog/post-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients-logo/client-logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients-logo/client-logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients-logo/client-logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients-logo/client-logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clients-logo/client-logo-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/experience/icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/experience/icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/experience/icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/design.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/plan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-group-cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-group-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-group-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-group-v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/dots-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-bg-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-cyan-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-cyan-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-pink-round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/leaf-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/illustrations/page-title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/item-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/progress-wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/member-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/member-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/team/member-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/testimonial/client-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/user-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/user-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/user-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fonts/BwNistaInt-xBd.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jQuery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/shuffle/shuffle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/themify-icons/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_hero-area.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_homepage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/templates/_portfolio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1khxPa9dbJOZXKIxHL77seFlzt6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f28b2c-864f-4fb3-ba69-11cd9ffbcde3" name="Default Changelist" comment="" />
+      <created>1606166601977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606166601977</updated>
+      <workItem from="1606166603672" duration="608000" />
+      <workItem from="1606228786081" duration="1215000" />
+      <workItem from="1606237915902" duration="4078000" />
+      <workItem from="1606308094684" duration="3608000" />
+      <workItem from="1606406778984" duration="516000" />
+      <workItem from="1606420305194" duration="3518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
